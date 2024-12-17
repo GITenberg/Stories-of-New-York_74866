@@ -1,0 +1,86 @@
+_repo: Stories-of-New-York_74866
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Day, Francis
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '6797'
+    url: http://www.gutenberg.org/2009/agents/6797
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Day_(artist)
+  - agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dana_Gibson
+creator:
+  authors:
+  - agent_name: Trumbull, Annie Eliot
+    alias: Eliot, Annie
+    birthdate: 1857
+    deathdate: 1949
+    gutenberg_agent_id: '33255'
+    url: http://www.gutenberg.org/2009/agents/33255
+    wikipedia: https://en.wikipedia.org/wiki/Annie_Eliot_Trumbull
+  - agent_name: Hibbard, George A. (George Abiah)
+    aliases:
+    - Hibbard, G. A. (George Abiah)
+    - Hibbard, George Abiah
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '57697'
+    url: http://www.gutenberg.org/2009/agents/57697
+  - agent_name: Perry, Bliss
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1188'
+    url: http://www.gutenberg.org/2009/agents/1188
+    wikipedia: https://en.wikipedia.org/wiki/Bliss_Perry
+  - agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edith_Wharton
+    - https://fr.wikipedia.org/wiki/Edith_Wharton
+  - agent_name: Wood, John Seymour
+    alias: Wood, John S.
+    birthdate: 1853
+    deathdate: 1934
+    gutenberg_agent_id: '57698'
+    url: http://www.gutenberg.org/2009/agents/57698
+description: Illustrated by C. D. Gibson, F. Day, G. A. Hibbard (author of one of
+  the stories), and likely other artists.
+gutenberg_issued: '2024-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74866'
+  lccn: 04018269
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/000159692
+pgterms:marc905: 20240229111700eliot
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bC. Scribner''s sons, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Stories from Scribner
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'From four to six: a comedietta, by Annie Eliot -- The commonest
+  possible story, by Bliss Perry -- The end of the beginning, by George A. Hibbard
+  -- A Puritan ingénue, by John S. Wood -- Mrs. Manstey''s view, by Edith Wharton.'
+title: Stories of New York
+url: http://www.gutenberg.org/ebooks/74866
