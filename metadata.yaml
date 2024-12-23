@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '26456'
     url: http://www.gutenberg.org/2009/agents/26456
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dana_Gibson
+covers:
+- cover_type: archival
+  image_path: 74866-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Trumbull, Annie Eliot
@@ -57,6 +60,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57698
 description: Illustrated by C. D. Gibson, F. Day, G. A. Hibbard (author of one of
   the stories), and likely other artists.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74866#Stories-of-New-York
 gutenberg_issued: '2024-12-10'
 gutenberg_type: Text
 identifiers:
